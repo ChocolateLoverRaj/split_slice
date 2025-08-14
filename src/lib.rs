@@ -1,5 +1,4 @@
 #![no_std]
-
 use core::fmt::Debug;
 
 #[derive(Copy)]
