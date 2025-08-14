@@ -1,0 +1,11 @@
+[package]
+name = "split_slice"
+version = "1.0.0"
+description = "A Rust library for accessing (&[T], &[T]) as if it were a single slice"
+edition = "2024"
+authors = ["ChocolateLoverRaj <paranjperajas@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/ChocolateLoverRaj/split_slice"
+keywords = ["split", "slice", "iterator", "debug"]
+categories = ["data-structures", "no-std"]
+exclude = ["flake.nix", "flake.lock", ".envrc"]
